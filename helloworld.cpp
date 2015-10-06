@@ -4,4 +4,5 @@ int
 main (int argc, char **argv)
 {
 	printf("hello world\n");
+	printf("cloud9\n");
 }
